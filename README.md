@@ -38,7 +38,7 @@
 **推荐使用的镜像 web 版本**
 
 [**`qq.wdev.cn`**](https://qq.wdev.cn)
-[**`linux.devonline.net`**](http://linux.devonline.net/)，[**`man.zch.ooo`**](https://man.zch.ooo/)，[**`linux.mmoke.com`**](https://linux.mmoke.com)，[**`bqrdh.com`**](https://tools.bqrdh.com/linux-command/)，[**`linux.zyimm.com`**](http://linux.zyimm.com/)，[linux.vovuo.com](https://linux.vovuo.com/)，[`linux.liguiying.cn`](https://linux.liguiying.cn/)
+[**`linux.devonline.net`**](http://linux.devonline.net/)，[**`man.zch.ooo`**](https://man.zch.ooo/)，[**`linux.mmoke.com`**](https://linux.mmoke.com)，[**`bqrdh.com`**](https://tools.bqrdh.com/linux-command/)，[**`linux.zyimm.com`**](http://linux.zyimm.com/)，[linux.vovuo.com](https://linux.vovuo.com/)，[`linux.liguiying.cn`](https://linux.liguiying.cn/)，[**`linux.zgrnb.com`**](https://linux.zgrnb.com/)
 
 **其它 web 版本**
 
@@ -538,6 +538,9 @@ https://raw.githubusercontent.com/jaywcjlove/linux-command/master/command/<命�
 <a href="https://github.com/pplmx" title="Mystic">
   <img src="https://avatars.githubusercontent.com/u/26994103?v=4" width="42;" alt="Mystic"/>
 </a>
+<a href="https://github.com/Qliangw" title="Qliangw">
+  <img src="https://avatars.githubusercontent.com/u/22791711?v=4" width="42;" alt="Qliangw"/>
+</a>
 <a href="https://github.com/rayyee" title="Ray Yee">
   <img src="https://avatars.githubusercontent.com/u/685149?v=4" width="42;" alt="Ray Yee"/>
 </a>
@@ -706,6 +709,9 @@ https://raw.githubusercontent.com/jaywcjlove/linux-command/master/command/<命�
 <a href="https://github.com/hunantangke" title="tangke">
   <img src="https://avatars.githubusercontent.com/u/22476435?v=4" width="42;" alt="tangke"/>
 </a>
+<a href="https://github.com/tutianyu101" title="tutianyu101">
+  <img src="https://avatars.githubusercontent.com/u/134258491?v=4" width="42;" alt="tutianyu101"/>
+</a>
 <a href="https://github.com/UniqueDing" title="UniqueDing">
   <img src="https://avatars.githubusercontent.com/u/24190814?v=4" width="42;" alt="UniqueDing"/>
 </a>
@@ -714,6 +720,9 @@ https://raw.githubusercontent.com/jaywcjlove/linux-command/master/command/<命�
 </a>
 <a href="https://github.com/wlf-darkmatter" title="Lingfeng Wang">
   <img src="https://avatars.githubusercontent.com/u/62014693?v=4" width="42;" alt="Lingfeng Wang"/>
+</a>
+<a href="https://github.com/xhal" title="xhal">
+  <img src="https://avatars.githubusercontent.com/u/34055638?v=4" width="42;" alt="xhal"/>
 </a>
 <a href="https://github.com/yanyixing" title="yanyx">
   <img src="https://avatars.githubusercontent.com/u/12455492?v=4" width="42;" alt="yanyx"/>
